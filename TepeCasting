@@ -1,0 +1,38 @@
+package maait;
+
+public class Akka {
+	public static void main (String[] args)
+	{
+		//int a=123;
+		//double d=(int)a;
+		//System.out.println(d);
+		//double d=23.0d;
+		//int i=(int)d;
+		//System.out.println(i);
+		//String str="123";
+		//int num=Integer.parseInt(str);
+		//System.out.println(num);
+	//long l=12345678L;
+	//double d=(double)l;
+	//System.out.println(d);
+		//double d=77.0d;
+		//long l=(long)d;
+		//System.out.println(l);
+		
+	//int myint=123;
+	//String mystring=String.valueOf(myint);
+	//System.out.println(mystring);
+		//int i=123;
+		//double d=(int)i;
+		//System.out.println(d);
+		//double d=44.0d;
+		//int i=(int)d;
+		//System.out.println(i);
+		String str="123";
+		int num=Integer.parseInt(str);
+		System.out.println(num);
+		
+}
+}
+
+
